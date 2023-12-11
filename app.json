@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "af7862e5-57f2-43c6-b082-2d99dc5db4e0"
+      }
+    },
+    "owner": "eobruno"
   }
 }
